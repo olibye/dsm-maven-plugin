@@ -58,7 +58,7 @@ a) Edit yours pom.xml and add configuration section:
                     <plugin>
                         <groupId>com.github.sevntu-checkstyle</groupId>
                         <artifactId>dsm-maven-plugin</artifactId>
-                        <version>2.2.0version>
+                        <version>2.2.0</version>
                         <configuration>
                             <obfuscatePackageNames>true</obfuscatePackageNames>
                         </configuration>
